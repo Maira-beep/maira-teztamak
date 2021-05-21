@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "restaurantm4",
       "title": "RestaurantM4",
@@ -91,7 +91,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "mxjebw15zg",
+    "mbrsiteDomain": "tfsthhym2w",
     "cssOptimize": true,
     "lazyLoad": true,
     "lazyType": "nothing",
